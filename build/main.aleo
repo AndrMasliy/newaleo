@@ -8,3 +8,4 @@ struct Board:
     r2 as Row;
     r3 as Row;
 
+
